@@ -1,0 +1,5 @@
+ notifications:
+  slack:
+    rooms:
+      - ds-test-workspace-po:c6xQ1P5Iq0x5Tni9sRAHSQKg#general
+      - ds-test-workspace-po:c6xQ1P5Iq0x5Tni9sRAHSQKg#random
